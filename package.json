@@ -1,0 +1,24 @@
+{
+  "name": "angular2-mean-app",
+  "version": "1.0.0",
+  "description": "angular 2 mean application end to end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punit355743/Angular2-mean-app.git"
+  },
+  "author": "punit dixit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punit355743/Angular2-mean-app/issues"
+  },
+  "homepage": "https://github.com/punit355743/Angular2-mean-app#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  }
+}
